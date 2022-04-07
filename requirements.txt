@@ -1,0 +1,8 @@
+# Django
+Django==3.2
+djangorestframework==3.13.1
+
+# Authentication
+
+
+# Database
